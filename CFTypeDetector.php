@@ -1,5 +1,7 @@
 <?php
 
+namespace CFPropertyList;
+
  /**
   * CFTypeDetector
   * Interface for converting native PHP data structures to CFPropertyList objects.

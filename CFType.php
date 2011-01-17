@@ -1,4 +1,10 @@
 <?php
+
+namespace CFPropertyList;
+
+use Iterator;
+use ArrayAccess;
+
 /**
  * Data-Types for CFPropertyList as defined by Apple.
  * {@link http://developer.apple.com/documentation/Darwin/Reference/ManPages/man5/plist.5.html Property Lists}
